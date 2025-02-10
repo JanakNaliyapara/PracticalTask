@@ -1,0 +1,28 @@
+{
+  "" : {
+    "diagnostics" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/practicalTask.build/Release-iphoneos/practicalTask.build/Objects-normal/arm64/practicalTask-master.dia",
+    "emit-module-dependencies" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/practicalTask.build/Release-iphoneos/practicalTask.build/Objects-normal/arm64/practicalTask-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/practicalTask.build/Release-iphoneos/practicalTask.build/Objects-normal/arm64/practicalTask-master-emit-module.dia",
+    "swift-dependencies" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/practicalTask.build/Release-iphoneos/practicalTask.build/Objects-normal/arm64/practicalTask-master.swiftdeps"
+  },
+  "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/practicalTask.build/Release-iphoneos/practicalTask.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/practicalTask.build/Release-iphoneos/practicalTask.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/practicalTask.build/Release-iphoneos/practicalTask.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/practicalTask.build/Release-iphoneos/practicalTask.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/practicalTask.build/Release-iphoneos/practicalTask.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/practicalTask.build/Release-iphoneos/practicalTask.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/practicalTask.build/Release-iphoneos/practicalTask.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/practicalTask.build/Release-iphoneos/practicalTask.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/practicalTask.build/Release-iphoneos/practicalTask.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/disha/Desktop/practicalTask/ios/practicalTask/AppDelegate.swift" : {
+    "const-values" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/practicalTask.build/Release-iphoneos/practicalTask.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/practicalTask.build/Release-iphoneos/practicalTask.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/practicalTask.build/Release-iphoneos/practicalTask.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/practicalTask.build/Release-iphoneos/practicalTask.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/practicalTask.build/Release-iphoneos/practicalTask.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/practicalTask.build/Release-iphoneos/practicalTask.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/practicalTask.build/Release-iphoneos/practicalTask.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/practicalTask.build/Release-iphoneos/practicalTask.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  }
+}

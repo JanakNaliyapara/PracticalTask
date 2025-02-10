@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/disha/Desktop/practicalTask/node_modules/react-native/ReactCommon/react/renderer/runtimescheduler/RuntimeScheduler.cpp \
+  /Users/disha/Desktop/practicalTask/ios/Pods/Target\ Support\ Files/React-runtimescheduler/React-runtimescheduler-prefix.pch \
+  /Users/disha/Desktop/practicalTask/node_modules/react-native/ReactCommon/react/renderer/runtimescheduler/RuntimeScheduler.h \
+  /Users/disha/Desktop/practicalTask/ios/Pods/Headers/Public/React-runtimeexecutor/ReactCommon/RuntimeExecutor.h \
+  /Users/disha/Desktop/practicalTask/ios/Pods/Headers/Public/React-jsi/jsi/jsi.h \
+  /Users/disha/Desktop/practicalTask/ios/Pods/Headers/Public/React-jsi/jsi/jsi-inl.h \
+  /Users/disha/Desktop/practicalTask/ios/Pods/Headers/Public/React-performancetimeline/react/performance/timeline/PerformanceEntryReporter.h \
+  /Users/disha/Desktop/practicalTask/ios/Pods/Headers/Public/React-timing/react/timing/primitives.h \
+  /Users/disha/Desktop/practicalTask/ios/Pods/Headers/Public/React-performancetimeline/react/performance/timeline/PerformanceEntryCircularBuffer.h \
+  /Users/disha/Desktop/practicalTask/ios/Pods/Headers/Public/React-performancetimeline/react/performance/timeline/CircularBuffer.h \
+  /Users/disha/Desktop/practicalTask/ios/Pods/Headers/Public/React-performancetimeline/react/performance/timeline/PerformanceEntry.h \
+  /Users/disha/Desktop/practicalTask/ios/Pods/Headers/Public/React-performancetimeline/react/performance/timeline/PerformanceEntryBuffer.h \
+  /Users/disha/Desktop/practicalTask/ios/Pods/Headers/Public/React-performancetimeline/react/performance/timeline/PerformanceEntryKeyedBuffer.h \
+  /Users/disha/Desktop/practicalTask/ios/Pods/Headers/Public/React-performancetimeline/react/performance/timeline/PerformanceObserverRegistry.h \
+  /Users/disha/Desktop/practicalTask/ios/Pods/Headers/Public/React-rendererconsistency/react/renderer/consistency/ShadowTreeRevisionConsistencyManager.h \
+  /Users/disha/Desktop/practicalTask/ios/Pods/Headers/Private/React-runtimescheduler/react/renderer/runtimescheduler/RuntimeSchedulerClock.h \
+  /Users/disha/Desktop/practicalTask/ios/Pods/Headers/Private/React-runtimescheduler/react/renderer/runtimescheduler/SchedulerPriorityUtils.h \
+  /Users/disha/Desktop/practicalTask/ios/Pods/Headers/Public/React-callinvoker/ReactCommon/SchedulerPriority.h \
+  /Users/disha/Desktop/practicalTask/ios/Pods/Headers/Public/React-debug/react/debug/react_native_assert.h \
+  /Users/disha/Desktop/practicalTask/ios/Pods/Headers/Public/React-debug/react/debug/flags.h \
+  /Users/disha/Desktop/practicalTask/ios/Pods/Headers/Private/React-runtimescheduler/react/renderer/runtimescheduler/Task.h \
+  /Users/disha/Desktop/practicalTask/node_modules/react-native/ReactCommon/react/renderer/runtimescheduler/RuntimeSchedulerEventTimingDelegate.h \
+  /Users/disha/Desktop/practicalTask/node_modules/react-native/ReactCommon/react/renderer/runtimescheduler/RuntimeScheduler_Legacy.h \
+  /Users/disha/Desktop/practicalTask/ios/Pods/Headers/Private/React-runtimescheduler/react/renderer/runtimescheduler/RuntimeScheduler.h \
+  /Users/disha/Desktop/practicalTask/node_modules/react-native/ReactCommon/react/renderer/runtimescheduler/RuntimeScheduler_Modern.h \
+  /Users/disha/Desktop/practicalTask/node_modules/react-native/ReactCommon/react/renderer/runtimescheduler/SchedulerPriorityUtils.h \
+  /Users/disha/Desktop/practicalTask/ios/Pods/Headers/Public/React-cxxreact/cxxreact/ErrorUtils.h \
+  /Users/disha/Desktop/practicalTask/ios/Pods/Headers/Public/React-cxxreact/cxxreact/SystraceSection.h \
+  /Users/disha/Desktop/practicalTask/ios/Pods/Headers/Public/React-featureflags/react/featureflags/ReactNativeFeatureFlags.h \
+  /Users/disha/Desktop/practicalTask/ios/Pods/Headers/Public/React-featureflags/react/featureflags/ReactNativeFeatureFlagsAccessor.h \
+  /Users/disha/Desktop/practicalTask/ios/Pods/Headers/Public/React-featureflags/react/featureflags/ReactNativeFeatureFlagsProvider.h

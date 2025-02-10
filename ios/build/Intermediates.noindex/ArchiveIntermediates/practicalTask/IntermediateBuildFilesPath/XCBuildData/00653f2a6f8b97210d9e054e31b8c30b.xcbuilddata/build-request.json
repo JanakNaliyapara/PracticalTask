@@ -1,0 +1,80 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "05d0cb4ee380566419fdaf3f01101d897ceb6b36bcfc2fb90f69ac96de4975d6"
+    }
+  ],
+  "containerPath" : "/Users/disha/Desktop/practicalTask/ios/practicalTask.xcworkspace",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "install",
+    "activeArchitecture" : "undefined_arch",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos18.2",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "armv4t",
+        "armv5",
+        "armv6",
+        "armv7",
+        "armv7f",
+        "armv7s",
+        "armv7k",
+        "arm64",
+        "arm64e"
+      ],
+      "targetArchitecture" : "undefined_arch"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/disha/Desktop/practicalTask/ios/Build/Products",
+      "derivedDataPath" : "/Users/disha/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/disha/Library/Developer/Xcode/DerivedData/practicalTask-eqmkaqbflmygjiaqmhecbtincrvt/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/disha/Library/Developer/Xcode/DerivedData/practicalTask-eqmkaqbflmygjiaqmhecbtincrvt/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "install",
+          "ASSET_PACK_FOLDER_PATH" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/InstallationBuildProductsLocation/OnDemandResources",
+          "ASSETCATALOG_COMPILER_FLATTENED_APP_ICON_PATH" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/BuildProductsPath/ProductIcon.png",
+          "DEPLOYMENT_LOCATION" : "YES",
+          "DEPLOYMENT_POSTPROCESSING" : "YES",
+          "DSTROOT" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/InstallationBuildProductsLocation",
+          "EMBED_ASSET_PACKS_IN_PRODUCT_BUNDLE" : "NO",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_SIGNATURE_AGGREGATION" : "YES",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
+          "INDEX_ENABLE_DATA_STORE" : "NO",
+          "MESSAGES_APPLICATION_EXTENSION_SUPPORT_FOLDER_PATH" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/BuildProductsPath/MessagesApplicationExtensionSupport",
+          "MESSAGES_APPLICATION_SUPPORT_FOLDER_PATH" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/BuildProductsPath/MessagesApplicationSupport",
+          "OBJROOT" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath",
+          "SHARED_PRECOMPS_DIR" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/PrecompiledHeaders",
+          "SIGNATURE_METADATA_FOLDER_PATH" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/BuildProductsPath/Signatures",
+          "SWIFT_STDLIB_TOOL_UNSIGNED_DESTINATION_DIR" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/BuildProductsPath/SwiftSupport",
+          "SYMROOT" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/BuildProductsPath",
+          "WATCHKIT_2_SUPPORT_FOLDER_PATH" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/BuildProductsPath/WatchKitSupport2"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "archive",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

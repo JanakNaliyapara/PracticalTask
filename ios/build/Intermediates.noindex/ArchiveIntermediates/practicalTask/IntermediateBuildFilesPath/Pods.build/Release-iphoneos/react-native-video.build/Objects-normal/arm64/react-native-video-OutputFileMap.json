@@ -1,0 +1,160 @@
+{
+  "" : {
+    "const-values" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/react-native-video-master.swiftconstvalues",
+    "dependencies" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/react-native-video-master.d",
+    "diagnostics" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/react-native-video-master.dia",
+    "emit-module-dependencies" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/react-native-video-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/react-native-video-master-emit-module.dia",
+    "swift-dependencies" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/react-native-video-master.swiftdeps"
+  },
+  "/Users/disha/Desktop/practicalTask/node_modules/react-native-video/ios/Video/DataStructures/AdParams.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/AdParams.o",
+    "llvm-bc" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/AdParams.bc",
+    "object" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/AdParams.o"
+  },
+  "/Users/disha/Desktop/practicalTask/node_modules/react-native-video/ios/Video/DataStructures/Chapter.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/Chapter.o",
+    "llvm-bc" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/Chapter.bc",
+    "object" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/Chapter.o"
+  },
+  "/Users/disha/Desktop/practicalTask/node_modules/react-native-video/ios/Video/DataStructures/CustomMetadata.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/CustomMetadata.o",
+    "llvm-bc" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/CustomMetadata.bc",
+    "object" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/CustomMetadata.o"
+  },
+  "/Users/disha/Desktop/practicalTask/node_modules/react-native-video/ios/Video/DataStructures/DRMParams.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/DRMParams.o",
+    "llvm-bc" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/DRMParams.bc",
+    "object" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/DRMParams.o"
+  },
+  "/Users/disha/Desktop/practicalTask/node_modules/react-native-video/ios/Video/DataStructures/SelectedTrackCriteria.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/SelectedTrackCriteria.o",
+    "llvm-bc" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/SelectedTrackCriteria.bc",
+    "object" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/SelectedTrackCriteria.o"
+  },
+  "/Users/disha/Desktop/practicalTask/node_modules/react-native-video/ios/Video/DataStructures/SubtitleStyle.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/SubtitleStyle.o",
+    "llvm-bc" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/SubtitleStyle.bc",
+    "object" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/SubtitleStyle.o"
+  },
+  "/Users/disha/Desktop/practicalTask/node_modules/react-native-video/ios/Video/DataStructures/TextTrack.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/TextTrack.o",
+    "llvm-bc" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/TextTrack.bc",
+    "object" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/TextTrack.o"
+  },
+  "/Users/disha/Desktop/practicalTask/node_modules/react-native-video/ios/Video/DataStructures/VideoSource.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/VideoSource.o",
+    "llvm-bc" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/VideoSource.bc",
+    "object" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/VideoSource.o"
+  },
+  "/Users/disha/Desktop/practicalTask/node_modules/react-native-video/ios/Video/Features/DRMManager+AVContentKeySessionDelegate.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/DRMManager+AVContentKeySessionDelegate.o",
+    "llvm-bc" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/DRMManager+AVContentKeySessionDelegate.bc",
+    "object" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/DRMManager+AVContentKeySessionDelegate.o"
+  },
+  "/Users/disha/Desktop/practicalTask/node_modules/react-native-video/ios/Video/Features/DRMManager+OnGetLicense.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/DRMManager+OnGetLicense.o",
+    "llvm-bc" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/DRMManager+OnGetLicense.bc",
+    "object" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/DRMManager+OnGetLicense.o"
+  },
+  "/Users/disha/Desktop/practicalTask/node_modules/react-native-video/ios/Video/Features/DRMManager+Persitable.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/DRMManager+Persitable.o",
+    "llvm-bc" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/DRMManager+Persitable.bc",
+    "object" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/DRMManager+Persitable.o"
+  },
+  "/Users/disha/Desktop/practicalTask/node_modules/react-native-video/ios/Video/Features/DRMManager.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/DRMManager.o",
+    "llvm-bc" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/DRMManager.bc",
+    "object" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/DRMManager.o"
+  },
+  "/Users/disha/Desktop/practicalTask/node_modules/react-native-video/ios/Video/Features/RCTIMAAdsManager.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/RCTIMAAdsManager.o",
+    "llvm-bc" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/RCTIMAAdsManager.bc",
+    "object" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/RCTIMAAdsManager.o"
+  },
+  "/Users/disha/Desktop/practicalTask/node_modules/react-native-video/ios/Video/Features/RCTPictureInPicture.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/RCTPictureInPicture.o",
+    "llvm-bc" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/RCTPictureInPicture.bc",
+    "object" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/RCTPictureInPicture.o"
+  },
+  "/Users/disha/Desktop/practicalTask/node_modules/react-native-video/ios/Video/Features/RCTPlayerObserver.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/RCTPlayerObserver.o",
+    "llvm-bc" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/RCTPlayerObserver.bc",
+    "object" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/RCTPlayerObserver.o"
+  },
+  "/Users/disha/Desktop/practicalTask/node_modules/react-native-video/ios/Video/Features/RCTPlayerOperations.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/RCTPlayerOperations.o",
+    "llvm-bc" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/RCTPlayerOperations.bc",
+    "object" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/RCTPlayerOperations.o"
+  },
+  "/Users/disha/Desktop/practicalTask/node_modules/react-native-video/ios/Video/Features/RCTVideoErrorHandling.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/RCTVideoErrorHandling.o",
+    "llvm-bc" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/RCTVideoErrorHandling.bc",
+    "object" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/RCTVideoErrorHandling.o"
+  },
+  "/Users/disha/Desktop/practicalTask/node_modules/react-native-video/ios/Video/Features/RCTVideoSave.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/RCTVideoSave.o",
+    "llvm-bc" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/RCTVideoSave.bc",
+    "object" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/RCTVideoSave.o"
+  },
+  "/Users/disha/Desktop/practicalTask/node_modules/react-native-video/ios/Video/Features/RCTVideoTVUtils.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/RCTVideoTVUtils.o",
+    "llvm-bc" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/RCTVideoTVUtils.bc",
+    "object" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/RCTVideoTVUtils.o"
+  },
+  "/Users/disha/Desktop/practicalTask/node_modules/react-native-video/ios/Video/Features/RCTVideoUtils.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/RCTVideoUtils.o",
+    "llvm-bc" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/RCTVideoUtils.bc",
+    "object" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/RCTVideoUtils.o"
+  },
+  "/Users/disha/Desktop/practicalTask/node_modules/react-native-video/ios/Video/Features/URLSession+data.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/URLSession+data.o",
+    "llvm-bc" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/URLSession+data.bc",
+    "object" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/URLSession+data.o"
+  },
+  "/Users/disha/Desktop/practicalTask/node_modules/react-native-video/ios/Video/NowPlayingInfoCenterManager.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/NowPlayingInfoCenterManager.o",
+    "llvm-bc" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/NowPlayingInfoCenterManager.bc",
+    "object" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/NowPlayingInfoCenterManager.o"
+  },
+  "/Users/disha/Desktop/practicalTask/node_modules/react-native-video/ios/Video/RCTVideo.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/RCTVideo.o",
+    "llvm-bc" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/RCTVideo.bc",
+    "object" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/RCTVideo.o"
+  },
+  "/Users/disha/Desktop/practicalTask/node_modules/react-native-video/ios/Video/RCTVideoManager.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/RCTVideoManager-0dde1c377909313cd55cf3efe09c55e4.o",
+    "llvm-bc" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/RCTVideoManager-0dde1c377909313cd55cf3efe09c55e4.bc",
+    "object" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/RCTVideoManager-0dde1c377909313cd55cf3efe09c55e4.o"
+  },
+  "/Users/disha/Desktop/practicalTask/node_modules/react-native-video/ios/Video/RCTVideoPlayerViewController.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/RCTVideoPlayerViewController.o",
+    "llvm-bc" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/RCTVideoPlayerViewController.bc",
+    "object" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/RCTVideoPlayerViewController.o"
+  },
+  "/Users/disha/Desktop/practicalTask/node_modules/react-native-video/ios/Video/RCTVideoPlayerViewControllerDelegate.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/RCTVideoPlayerViewControllerDelegate.o",
+    "llvm-bc" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/RCTVideoPlayerViewControllerDelegate.bc",
+    "object" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/RCTVideoPlayerViewControllerDelegate.o"
+  },
+  "/Users/disha/Desktop/practicalTask/node_modules/react-native-video/ios/Video/RCTVideoSwiftLog/RCTVideoSwiftLog.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/RCTVideoSwiftLog-b3d21212f34aeaf0c4a235a343271feb.o",
+    "llvm-bc" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/RCTVideoSwiftLog-b3d21212f34aeaf0c4a235a343271feb.bc",
+    "object" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/RCTVideoSwiftLog-b3d21212f34aeaf0c4a235a343271feb.o"
+  },
+  "/Users/disha/Desktop/practicalTask/node_modules/react-native-video/ios/Video/RNVPlugin.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/RNVPlugin.o",
+    "llvm-bc" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/RNVPlugin.bc",
+    "object" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/RNVPlugin.o"
+  },
+  "/Users/disha/Desktop/practicalTask/node_modules/react-native-video/ios/Video/ReactNativeVideoManager.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/ReactNativeVideoManager.o",
+    "llvm-bc" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/ReactNativeVideoManager.bc",
+    "object" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/ReactNativeVideoManager.o"
+  },
+  "/Users/disha/Desktop/practicalTask/node_modules/react-native-video/ios/Video/UIView+FindUIViewController.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/UIView+FindUIViewController.o",
+    "llvm-bc" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/UIView+FindUIViewController.bc",
+    "object" : "/Users/disha/Desktop/practicalTask/ios/Build/Intermediates.noindex/ArchiveIntermediates/practicalTask/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/react-native-video.build/Objects-normal/arm64/UIView+FindUIViewController.o"
+  }
+}
